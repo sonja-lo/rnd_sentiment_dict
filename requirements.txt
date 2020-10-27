@@ -1,0 +1,3 @@
+pandas
+pymorphy2==0.8
+spacy==2.1.9 # https://github.com/buriy/spacy-ru
